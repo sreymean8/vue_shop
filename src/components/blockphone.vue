@@ -96,7 +96,7 @@ const products = [
     name: "Apple Watch Ultra 2",
     description: "Adventure-ready smartwatch with advanced features.",
     price: 899.99,
-    image: "https://i.pinimg.com/1200x/67/5e/15/675e15a1e480af61c776b5cf8b22b90b.jpg",
+    image: "https://i.pinimg.com/736x/7d/17/88/7d1788bdb070b9813fc5ab531a634618.jpg",
   },
 ];
 </script>
